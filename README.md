@@ -13,7 +13,8 @@ Looking for a powerful AI web agent without the $200/month price tag of OpenAI O
 - **Fully Open Source** - Complete transparency in how your browser is automated. No black boxes or hidden processes.
 
 
-![image](https://github.com/user-attachments/assets/d47c45ce-dce5-492a-9cde-5375181f53a1)
+<img width="557" height="1408" alt="image" src="https://github.com/user-attachments/assets/66f352ae-a58e-4a09-8c2b-79e6c689d62a" />
+
 
 ## 🎬 PagePilot in action
 PagePilot on search query "find out best pizza restaurant in pune on swiggy"
